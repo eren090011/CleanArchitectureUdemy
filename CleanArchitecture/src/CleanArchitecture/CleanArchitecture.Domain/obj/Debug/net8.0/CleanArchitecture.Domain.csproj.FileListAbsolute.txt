@@ -10,3 +10,16 @@ D:\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\ne
 D:\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.pdb
 D:\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\ref\CleanArchitecture.Domain.dll
 D:\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.csproj.AssemblyReference.cache
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.deps.json
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.csproj.AssemblyReference.cache
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.sourcelink.json
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.dll
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\refint\CleanArchitecture.Domain.dll
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.pdb
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\ref\CleanArchitecture.Domain.dll

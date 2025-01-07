@@ -17,3 +17,23 @@ D:\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\obj\
 D:\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\ref\CleanArchitecture.Infrastructure.dll
 D:\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.runtimeconfig.json
 D:\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.deps.json
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.runtimeconfig.json
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Application.dll
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.sourcelink.json
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArc.38F44B56.Up2Date
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\refint\CleanArchitecture.Infrastructure.dll
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache
+C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\ref\CleanArchitecture.Infrastructure.dll

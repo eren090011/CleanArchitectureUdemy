@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CleanArchitecture.Infrastructure
-build_property.ProjectDir = D:\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\
+build_property.ProjectDir = C:\GithubFiles\Cursos udemy\CleanArchitecture\CleanArchitectureUdemy\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

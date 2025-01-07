@@ -2027,19 +2027,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jesus\\.nuget\\packages\\": {}
+    "C:\\Users\\jesus\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+      "projectUniqueName": "C:\\GithubFiles\\Cursos udemy\\CleanArchitecture\\CleanArchitectureUdemy\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
       "projectName": "CleanArchitecture.Infrastructure",
-      "projectPath": "D:\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Jesus\\.nuget\\packages\\",
-      "outputPath": "D:\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Infrastructure\\obj\\",
+      "projectPath": "C:\\GithubFiles\\Cursos udemy\\CleanArchitecture\\CleanArchitectureUdemy\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
+      "outputPath": "C:\\GithubFiles\\Cursos udemy\\CleanArchitecture\\CleanArchitectureUdemy\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2053,8 +2058,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
-              "projectPath": "D:\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+            "C:\\GithubFiles\\Cursos udemy\\CleanArchitecture\\CleanArchitectureUdemy\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+              "projectPath": "C:\\GithubFiles\\Cursos udemy\\CleanArchitecture\\CleanArchitectureUdemy\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
             }
           }
         }

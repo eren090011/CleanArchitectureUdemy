@@ -23,5 +23,9 @@ if (app.Environment.IsDevelopment())
 
 app.ApplyMigration();
 app.MapControllers();
+app.SeedData();
+
+app.MapControllers();
+
 
 app.Run();
