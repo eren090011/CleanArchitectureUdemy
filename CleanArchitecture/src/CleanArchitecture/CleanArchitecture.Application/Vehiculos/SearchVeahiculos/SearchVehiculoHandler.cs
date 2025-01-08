@@ -45,13 +45,13 @@ internal sealed class SearchVehiculosQueryHandler
                 a.direccion_ciudad AS Ciudad,
                 a.direccion_calle AS Calle
             FROM vehiculos AS a
-            WHERE NOT EXIST(
+            WHERE NOT EXISTS(
                 SELECT 1
                 FROM alquileres AS b
                 WHERE 
-                    b.vehiculo_id = a.id 
+                    b.vehiculo_id = a.id AND
                     b.duracion_inicio <= @EndDate AND
-                    b.duracion_final >= @StartDate AND
+                    b.duracion_fin >= @StartDate AND
                     b.status = ANY(@ActiveAlquilerStatuses)
             )
         """;
